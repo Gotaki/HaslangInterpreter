@@ -1,0 +1,43 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSyntaxAnalysisTests in library/src/test/scala/haslang:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- equal expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- less than expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- addition expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- subtraction expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiplication expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- division expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- integer expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- true expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- false expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- identifier expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parenthesized expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- application expression 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- expression containing an application expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- if expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lambda expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- basic type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parsing unit type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parsing list type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parsing tuple type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parsing function type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- parsing bracketted function type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cons expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- tuple expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- underscore pattern[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- literal pattern[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list pattern[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cons pattern[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- tuple pattern[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple function line[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- more complicated function line[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- simple variable[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- function with two lines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- function with three lines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one definition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- one definition with lambda[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- two definitions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- let with one definition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- let with two definitions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- program with two definitions including lambda[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- program with definitions including lambda and multiline fun[0m[0m

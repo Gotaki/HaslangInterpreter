@@ -1,0 +1,82 @@
+run test/block2.fun
+clean
+exit
+compile
+test
+run test/simple.hal
+run test/block.hal
+run test/function.hal
+run test/nesting.hal
+compile
+test
+compile
+test
+clean
+exit
+test
+exit
+test
+run integer expression
+test
+run integer expression
+test
+run
+test
+run
+test
+run
+test
+run
+test
+ttest
+test
+ttest
+test
+test ("program with two definitions including lambda") {
+      program ("""let
+                    x   :: Int        = 100;
+                    inc :: Int -> Int = \a :: Int -> a + 1
+                  in
+                    inc x
+                """) should parseTo[Program] (Program(LetExp(
+                    Vector(Defn(
+                            IdnDef("x", IntType()),
+                            Vector(FunLine("", Vector(), IntExp(100)))),
+                           Defn(
+                            IdnDef("inc", FunType(IntType(), IntType())),
+                            Vector(FunLine("", Vector(), LamExp(
+                                              IdnDef("a", IntType()),
+                                              PlusExp(IdnUse("a"), IntExp(1)))))
+                                        )),
+                    AppExp (IdnUse ("inc"), IdnUse ("x")))))
+test
+sbt
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+sbt
+test
+compile
+test
+debug
+test
+compile
+test
+comcompile
+compile
+test
+compile
+test
+echo "# HaslangInterpreter" >> README.mdecho "# HaslangInterpreter" >> README.mdecho "# HaslangInterpreter" >> README.md

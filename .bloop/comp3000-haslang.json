@@ -1,0 +1,286 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "comp3000-haslang",
+        "directory": "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang",
+        "workspaceDir": "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang",
+        "sources": [
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\src\\main\\scala-2.12",
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\src\\main\\scala",
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\src\\main\\java",
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\target\\scala-2.12\\src_managed\\main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-library\\jars\\scala-library-2.12.8.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\jars\\kiama_2.12-2.1.0.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\com.google.code.findbugs\\jsr305\\jars\\jsr305-3.0.2.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\com.google.guava\\guava\\bundles\\guava-21.0.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsinfo\\dsinfo_2.12\\jars\\dsinfo_2.12-0.4.0.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-reflect\\jars\\scala-reflect-2.12.8.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsprofile\\dsprofile_2.12\\jars\\dsprofile_2.12-0.4.0.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\org.rogach\\scallop_2.12\\jars\\scallop_2.12-2.1.1.jar",
+            "C:\\Users\\Victor\\.ivy2\\cache\\jline\\jline\\jars\\jline-2.14.3.jar"
+        ],
+        "out": "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\.bloop\\comp3000-haslang",
+        "classesDir": "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\.bloop\\comp3000-haslang\\scala-2.12\\classes",
+        "resources": [
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\src\\main\\resources",
+            "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\target\\scala-2.12\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.8",
+            "options": [
+                "-deprecation",
+                "-feature",
+                "-unchecked",
+                "-Xcheckinit",
+                "-Xfatal-warnings",
+                "-Xlint:-stars-align,-unused,_"
+            ],
+            "jars": [
+                "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-compiler\\jars\\scala-compiler-2.12.8.jar",
+                "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-library\\jars\\scala-library-2.12.8.jar",
+                "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-reflect\\jars\\scala-reflect-2.12.8.jar",
+                "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang.modules\\scala-xml_2.12\\bundles\\scala-xml_2.12-1.0.6.jar",
+                "C:\\Users\\Victor\\.ivy2\\cache\\jline\\jline\\jars\\jline-2.14.6.jar"
+            ],
+            "analysis": "D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang\\target\\streams\\compile\\bloopAnalysisOut\\$global\\streams\\inc_compile_2.12.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-11.0.12",
+                "options": [
+                    "-Duser.dir=D:\\University\\COMP3000\\Assignment 2\\comp3000-haslang"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.8",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-library\\jars\\scala-library-2.12.8.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-library\\srcs\\scala-library-2.12.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.bitbucket.inkytonik.kiama",
+                    "name": "kiama_2.12",
+                    "version": "2.1.0",
+                    "artifacts": [
+                        {
+                            "name": "kiama_2.12",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\jars\\kiama_2.12-2.1.0.jar"
+                        },
+                        {
+                            "name": "kiama_2.12",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\srcs\\kiama_2.12-2.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.google.code.findbugs",
+                    "name": "jsr305",
+                    "version": "3.0.2",
+                    "artifacts": [
+                        {
+                            "name": "jsr305",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\com.google.code.findbugs\\jsr305\\jars\\jsr305-3.0.2.jar"
+                        },
+                        {
+                            "name": "jsr305",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\com.google.code.findbugs\\jsr305\\srcs\\jsr305-3.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.google.guava",
+                    "name": "guava",
+                    "version": "21.0",
+                    "artifacts": [
+                        {
+                            "name": "guava",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\com.google.guava\\guava\\bundles\\guava-21.0.jar"
+                        },
+                        {
+                            "name": "guava",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\com.google.guava\\guava\\srcs\\guava-21.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.bitbucket.inkytonik.dsinfo",
+                    "name": "dsinfo_2.12",
+                    "version": "0.4.0",
+                    "artifacts": [
+                        {
+                            "name": "dsinfo_2.12",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsinfo\\dsinfo_2.12\\jars\\dsinfo_2.12-0.4.0.jar"
+                        },
+                        {
+                            "name": "dsinfo_2.12",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsinfo\\dsinfo_2.12\\srcs\\dsinfo_2.12-0.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-reflect",
+                    "version": "2.12.8",
+                    "artifacts": [
+                        {
+                            "name": "scala-reflect",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.scala-lang\\scala-reflect\\jars\\scala-reflect-2.12.8.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.bitbucket.inkytonik.dsprofile",
+                    "name": "dsprofile_2.12",
+                    "version": "0.4.0",
+                    "artifacts": [
+                        {
+                            "name": "dsprofile_2.12",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsprofile\\dsprofile_2.12\\jars\\dsprofile_2.12-0.4.0.jar"
+                        },
+                        {
+                            "name": "dsprofile_2.12",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.dsprofile\\dsprofile_2.12\\srcs\\dsprofile_2.12-0.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.rogach",
+                    "name": "scallop_2.12",
+                    "version": "2.1.1",
+                    "artifacts": [
+                        {
+                            "name": "scallop_2.12",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.rogach\\scallop_2.12\\jars\\scallop_2.12-2.1.1.jar"
+                        },
+                        {
+                            "name": "scallop_2.12",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.rogach\\scallop_2.12\\srcs\\scallop_2.12-2.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "jline",
+                    "name": "jline",
+                    "version": "2.14.3",
+                    "artifacts": [
+                        {
+                            "name": "jline",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\jline\\jline\\jars\\jline-2.14.3.jar"
+                        },
+                        {
+                            "name": "jline",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\jline\\jline\\srcs\\jline-2.14.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.bitbucket.inkytonik.kiama",
+                    "name": "kiama_2.12",
+                    "version": "2.1.0",
+                    "artifacts": [
+                        {
+                            "name": "kiama_2.12",
+                            "classifier": "tests",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\jars\\kiama_2.12-2.1.0-tests.jar"
+                        },
+                        {
+                            "name": "kiama_2.12",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\jars\\kiama_2.12-2.1.0.jar"
+                        },
+                        {
+                            "name": "kiama_2.12",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Victor\\.ivy2\\cache\\org.bitbucket.inkytonik.kiama\\kiama_2.12\\srcs\\kiama_2.12-2.1.0-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

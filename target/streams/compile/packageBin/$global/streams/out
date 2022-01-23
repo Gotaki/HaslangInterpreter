@@ -1,0 +1,157 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\comp3000-ass2_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$BoolExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$BoolExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TupleType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TupleType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$FunType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$FunType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdentPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdentPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$UnitType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$UnitType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LetExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LetExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Idn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Idn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Exp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Exp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IfExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IfExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LessExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LessExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$StarExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$StarExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TupleExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TupleExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$StarExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$StarExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$BoolType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$BoolType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$FunLine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$FunLine$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Defn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Defn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdnDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdnDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ConsPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ConsPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LiteralPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LiteralPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TupleExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TupleExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Defn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Defn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IfExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IfExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ConsExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ConsExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdentPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdentPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Program$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Type.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Type.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Pat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Pat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$HasLangNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$HasLangNode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$AppExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$AppExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LamExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LamExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IntExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IntExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IntExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IntExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$MinusExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$MinusExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$EqualExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$EqualExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$BoolExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$BoolExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdnUse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdnUse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$AnyPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$AnyPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IntType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IntType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\SyntaxAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\SyntaxAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdnDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdnDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$Program.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$AnyPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$AnyPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$SlashExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$SlashExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TuplePat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TuplePat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$UnknownType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$UnknownType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$PlusExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$PlusExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TuplePat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TuplePat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$MinusExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$MinusExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$SlashExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$SlashExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$EqualExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$EqualExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$PlusExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$PlusExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ConsExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ConsExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$FunType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$FunType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ConsPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ConsPat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$TupleType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$TupleType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$ListPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$ListPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LiteralPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LiteralPat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$AppExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$AppExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$UnitType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$UnitType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$BoolType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$BoolType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IdnUse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IdnUse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LessExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LessExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$FunLine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$FunLine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$UnknownType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$UnknownType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LetExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LetExp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$IntType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$IntType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	haslang\HasLangTree$LamExp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\University\COMP3000\Assignment 2\comp3000-haslang\target\scala-2.12\classes\haslang\HasLangTree$LamExp$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

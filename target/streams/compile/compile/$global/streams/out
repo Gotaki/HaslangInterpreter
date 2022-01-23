@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\University\COMP3000\Assignment 2\comp3000-haslang\src\main\scala\SyntaxAnalysis.scala:99:111: not found: value e[0m
+[0m[[0m[31merror[0m] [0m[0m        ("if" ~> "(" ~> literal <~ ")") ~ ("then" ~> exp) ~ ("else" ~> exp) ^^ {case l ~ r ~ w => IfExp(l, r, e)} [0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
